@@ -8,7 +8,7 @@ compatibility_date = "2023-05-26"
 pattern = "graph.instagram.com.id1.khasvpn.xyz"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.id2.khasvpn.xyz"
+pattern = "support.zoom.us.id2.khasvpn.xyz"
 custom_domain = true
 
 [vars]
