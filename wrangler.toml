@@ -5,10 +5,10 @@ name = "server-id" # todo
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "classroom.google.com.id1.khasvpn.xyz"
+pattern = "id1.khasvpn.xyz"
 custom_domain = true
 [[routes]]
-pattern = "support.zoom.us.id2.khasvpn.xyz"
+pattern = "id2.khasvpn.xyz"
 custom_domain = true
 
 [vars]
