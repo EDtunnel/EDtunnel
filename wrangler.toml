@@ -8,7 +8,7 @@ compatibility_date = "2023-05-26"
 pattern = "investors.spotify.com.id1.khasvpn.xyz"
 custom_domain = true
 [[routes]]
-pattern = "id2.khasvpn.xyz"
+pattern = "graph.instagram.com.id2.khasvpn.xyz"
 custom_domain = true
 
 [vars]
