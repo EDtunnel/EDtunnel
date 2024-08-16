@@ -11,7 +11,7 @@ custom_domain = true
 pattern = "investors.spotify.com.id2.khasvpn.xyz"
 custom_domain = true
 [[routes]]
-pattern = "id1.khasvpn.xyz"
+pattern = "id3.khasvpn.xyz"
 custom_domain = true
 
 [vars]
